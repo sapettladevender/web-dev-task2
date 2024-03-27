@@ -96,7 +96,7 @@ footer {
       <button>Learn More</button>
     </section>
     <section class="product-image">
-      <img src="C:\Users\DEVENDER\Downloads\Audi-TT-RS-2018-main.jpg" alt="Product Image">
+      <img src="https://github.com/sapettladevender/web-dev-task2/blob/main/Audi-TT-RS-2018-main.jpg" alt="Product Image">
     </section>
   </main>
   <footer>
